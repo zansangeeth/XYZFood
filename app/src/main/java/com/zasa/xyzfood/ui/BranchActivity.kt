@@ -1,11 +1,10 @@
-package com.zasa.xyzfood
+package com.zasa.xyzfood.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bumptech.glide.Glide
+import com.zasa.xyzfood.R
 import kotlinx.android.synthetic.main.activity_branch.*
-import kotlinx.android.synthetic.main.activity_branch.view.*
-import kotlinx.android.synthetic.main.item_branch.*
 
 class BranchActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

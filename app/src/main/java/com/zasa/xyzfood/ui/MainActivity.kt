@@ -1,14 +1,15 @@
-package com.zasa.xyzfood
+package com.zasa.xyzfood.ui
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.zasa.xyzfoods.BranchAdapter
-import com.zasa.xyzfoods.BranchResult
-import com.zasa.xyzfoods.RestaurantApi
-import com.zasa.xyzfoods.Utils
+import com.zasa.xyzfood.R
+import com.zasa.xyzfood.adapter.BranchAdapter
+import com.zasa.xyzfood.response.BranchResult
+import com.zasa.xyzfood.api.RestaurantApi
+import com.zasa.xyzfood.utlis.Utils
 import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Call
 import retrofit2.Callback

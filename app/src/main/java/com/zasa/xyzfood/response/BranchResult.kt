@@ -1,4 +1,4 @@
-package com.zasa.xyzfoods
+package com.zasa.xyzfood.response
 
 data class BranchResult(
     val description: String,

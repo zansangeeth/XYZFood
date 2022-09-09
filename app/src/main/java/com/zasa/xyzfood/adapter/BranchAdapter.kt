@@ -1,4 +1,4 @@
-package com.zasa.xyzfoods
+package com.zasa.xyzfood.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.zasa.xyzfood.R
+import com.zasa.xyzfood.response.BranchResult
 import kotlinx.android.synthetic.main.item_branch.view.*
 
 /**

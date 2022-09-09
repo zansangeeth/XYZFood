@@ -1,7 +1,7 @@
-package com.zasa.xyzfoods
+package com.zasa.xyzfood.api
 
+import com.zasa.xyzfood.response.BranchResult
 import retrofit2.Call
-import retrofit2.Response
 import retrofit2.http.GET
 
 /**
