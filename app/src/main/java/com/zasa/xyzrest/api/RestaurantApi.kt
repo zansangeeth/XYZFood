@@ -1,5 +1,6 @@
-package com.zasa.xyzrest
+package com.zasa.xyzrest.api
 
+import com.zasa.xyzrest.response.BranchResult
 import retrofit2.Call
 import retrofit2.http.GET
 

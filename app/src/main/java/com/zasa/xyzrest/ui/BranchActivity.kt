@@ -1,10 +1,11 @@
-package com.zasa.xyzrest
+package com.zasa.xyzrest.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.bitmap.CenterCrop
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners
+import com.zasa.xyzrest.R
 import kotlinx.android.synthetic.main.activity_branch.*
 
 class BranchActivity : AppCompatActivity() {

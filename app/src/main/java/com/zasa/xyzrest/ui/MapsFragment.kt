@@ -1,4 +1,4 @@
-package com.zasa.xyzrest
+package com.zasa.xyzrest.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -11,6 +11,7 @@ import com.google.android.gms.maps.SupportMapFragment
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.LatLngBounds
 import com.google.android.gms.maps.model.MarkerOptions
+import com.zasa.xyzrest.R
 
 class MapsFragment : Fragment() {
 

@@ -1,4 +1,4 @@
-package com.zasa.xyzrest
+package com.zasa.xyzrest.response
 
 /**
  **@Project -> XYZRest

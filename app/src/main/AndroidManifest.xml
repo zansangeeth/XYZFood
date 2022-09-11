@@ -33,10 +33,10 @@
             android:value="AIzaSyDFSF1WhhuukNfE5wh614D05k-npF11898"/>
 
         <activity
-            android:name=".BranchActivity"
+            android:name=".ui.BranchActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
